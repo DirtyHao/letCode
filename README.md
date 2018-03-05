@@ -1,9 +1,13 @@
-### 感慨两句
+LeetCode
+========
 
- 说来惭愧，刚参加工作的第一年就计划要扎实一下自己的算法基础。一次一次的拖沓过后，现在毕业都已经三年了，当了三年码农，算法方面毫无进展。身边很多工作10+年的码农，想象一下自己30多岁后生活是他们这个样子，感觉不到什么希望，也没有意义。想要在这一年把很多没有付诸行动的想法都尝试一下。
+### LeetCode Algorithm
 
-### github上记录letcode上算法题有什么用?
-   
-主要2点：<br/>
-1. 记录自己的每题的解法，思考过程，逐步优化的过程。<br/>
-2. 希望能够得到社区前辈们的指点。
+(Notes: "&hearts;" means you need to buy a book from Leetcode)
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](./001_twoSum)|Medium|
+|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [javascript](./002_addTwoNumbers)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [javascript](./003_longestSubstringWithoutRepeatingCharaters)|Medium|
